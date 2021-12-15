@@ -1,4 +1,3 @@
 # moln
 
-kursrepo för DV1615, just nu främst för uppsamling av återkoppling.
-
+Kursrepo för DV1615 Introduktion till molnteknologi. Kursen ges till AI/ML studenter vid Blekinge Tekniska Högskola.
